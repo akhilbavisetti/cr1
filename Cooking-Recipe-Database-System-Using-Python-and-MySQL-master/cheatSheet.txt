@@ -1,0 +1,10 @@
+$ git config --global user.name "AveekChakraborty"
+$ git config --global user.email "tukai211880@gmail.com"
+$ touch .gitignore
+$ git init
+$ git add .
+$ git commit -m "Initial commit"
+$ git status       (Just to see status, this command is optional)
+$ git remote add origin <add repository link>
+$ git push origin master
+
